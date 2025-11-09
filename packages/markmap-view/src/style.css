@@ -89,6 +89,7 @@
       width: var(--markmap-max-width);
       text-align: left;
       > div {
+        direction: rtl;
         display: inline-block;
       }
     }
